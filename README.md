@@ -4,7 +4,7 @@
 
 ConvertX is a **production-ready video conversion platform** built with a modern, scalable web stack. Users can upload videos, track conversion progress in real time, and securely download optimized files in their desired format.
 
-![Architecture Diagram](./architecture_diagram.png)
+
 
 ---
 
